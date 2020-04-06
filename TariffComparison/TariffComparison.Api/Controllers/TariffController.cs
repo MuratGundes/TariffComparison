@@ -8,7 +8,6 @@ namespace TariffComparison.Api.Controllers
     [ApiController]
     public class TariffController : ControllerBase
     {
-        // GET api/values
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
