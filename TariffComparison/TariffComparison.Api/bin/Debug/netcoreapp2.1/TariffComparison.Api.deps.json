@@ -29,7 +29,11 @@
           "Microsoft.NETCore.App": "2.1.0",
           "Swashbuckle.AspNetCore.Swagger": "5.3.1",
           "Swashbuckle.AspNetCore.SwaggerGen": "5.3.1",
-          "Swashbuckle.AspNetCore.SwaggerUI": "5.3.1"
+          "Swashbuckle.AspNetCore.SwaggerUI": "5.3.1",
+          "TariffComparison.Contract": "1.0.0",
+          "TariffComparison.Domain": "1.0.0",
+          "TariffComparison.Repository": "1.0.0",
+          "TariffComparison.Services": "1.0.0"
         },
         "runtime": {
           "TariffComparison.Api.dll": {}
@@ -317,6 +321,60 @@
         },
         "compile": {
           "lib/netstandard2.0/System.Text.Json.dll": {}
+        }
+      },
+      "TariffComparison.Common/1.0.0": {
+        "runtime": {
+          "TariffComparison.Common.dll": {}
+        },
+        "compile": {
+          "TariffComparison.Common.dll": {}
+        }
+      },
+      "TariffComparison.Contract/1.0.0": {
+        "dependencies": {
+          "TariffComparison.Common": "1.0.0"
+        },
+        "runtime": {
+          "TariffComparison.Contract.dll": {}
+        },
+        "compile": {
+          "TariffComparison.Contract.dll": {}
+        }
+      },
+      "TariffComparison.Domain/1.0.0": {
+        "dependencies": {
+          "TariffComparison.Common": "1.0.0",
+          "TariffComparison.Contract": "1.0.0"
+        },
+        "runtime": {
+          "TariffComparison.Domain.dll": {}
+        },
+        "compile": {
+          "TariffComparison.Domain.dll": {}
+        }
+      },
+      "TariffComparison.Repository/1.0.0": {
+        "dependencies": {
+          "TariffComparison.Contract": "1.0.0",
+          "TariffComparison.Domain": "1.0.0"
+        },
+        "runtime": {
+          "TariffComparison.Repository.dll": {}
+        },
+        "compile": {
+          "TariffComparison.Repository.dll": {}
+        }
+      },
+      "TariffComparison.Services/1.0.0": {
+        "dependencies": {
+          "TariffComparison.Contract": "1.0.0"
+        },
+        "runtime": {
+          "TariffComparison.Services.dll": {}
+        },
+        "compile": {
+          "TariffComparison.Services.dll": {}
         }
       },
       "Microsoft.AspNet.WebApi.Client/5.2.6": {
@@ -3366,6 +3424,31 @@
       "sha512": "sha512-4F8Xe+JIkVoDJ8hDAZ7HqLkjctN/6WItJIzQaifBwClC7wmoLSda/Sv2i6i1kycqDb3hWF4JCVbpAweyOKHEUA==",
       "path": "system.text.json/4.6.0",
       "hashPath": "system.text.json.4.6.0.nupkg.sha512"
+    },
+    "TariffComparison.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TariffComparison.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TariffComparison.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TariffComparison.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TariffComparison.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Microsoft.AspNet.WebApi.Client/5.2.6": {
       "type": "package",

@@ -16,4 +16,11 @@
     <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="5.3.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\TariffComparison.Contract\TariffComparison.Contract.csproj" />
+    <ProjectReference Include="..\TariffComparison.Domain\TariffComparison.Domain.csproj" />
+    <ProjectReference Include="..\TariffComparison.Repository\TariffComparison.Repository.csproj" />
+    <ProjectReference Include="..\TariffComparison.Services\TariffComparison.Services.csproj" />
+  </ItemGroup>
+
 </Project>

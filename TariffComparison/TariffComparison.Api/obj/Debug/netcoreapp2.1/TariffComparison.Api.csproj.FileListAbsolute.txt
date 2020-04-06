@@ -12,3 +12,14 @@ C:\Projects\TariffComparison\TariffComparison\TariffComparison.Api\obj\Debug\net
 C:\Projects\TariffComparison\TariffComparison\TariffComparison.Api\obj\Debug\netcoreapp2.1\TariffComparison.Api.RazorTargetAssemblyInfo.cache
 C:\Projects\TariffComparison\TariffComparison\TariffComparison.Api\obj\Debug\netcoreapp2.1\TariffComparison.Api.dll
 C:\Projects\TariffComparison\TariffComparison\TariffComparison.Api\obj\Debug\netcoreapp2.1\TariffComparison.Api.pdb
+C:\Projects\TariffComparison\TariffComparison\TariffComparison.Api\bin\Debug\netcoreapp2.1\TariffComparison.Common.dll
+C:\Projects\TariffComparison\TariffComparison\TariffComparison.Api\bin\Debug\netcoreapp2.1\TariffComparison.Contract.dll
+C:\Projects\TariffComparison\TariffComparison\TariffComparison.Api\bin\Debug\netcoreapp2.1\TariffComparison.Contract.pdb
+C:\Projects\TariffComparison\TariffComparison\TariffComparison.Api\bin\Debug\netcoreapp2.1\TariffComparison.Common.pdb
+C:\Projects\TariffComparison\TariffComparison\TariffComparison.Api\obj\Debug\netcoreapp2.1\TariffComparison.Api.csproj.CopyComplete
+C:\Projects\TariffComparison\TariffComparison\TariffComparison.Api\bin\Debug\netcoreapp2.1\TariffComparison.Domain.dll
+C:\Projects\TariffComparison\TariffComparison\TariffComparison.Api\bin\Debug\netcoreapp2.1\TariffComparison.Repository.dll
+C:\Projects\TariffComparison\TariffComparison\TariffComparison.Api\bin\Debug\netcoreapp2.1\TariffComparison.Services.dll
+C:\Projects\TariffComparison\TariffComparison\TariffComparison.Api\bin\Debug\netcoreapp2.1\TariffComparison.Domain.pdb
+C:\Projects\TariffComparison\TariffComparison\TariffComparison.Api\bin\Debug\netcoreapp2.1\TariffComparison.Repository.pdb
+C:\Projects\TariffComparison\TariffComparison\TariffComparison.Api\bin\Debug\netcoreapp2.1\TariffComparison.Services.pdb
