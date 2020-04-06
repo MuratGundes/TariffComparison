@@ -1,0 +1,14 @@
+C:\Projects\TariffComparison\TariffComparison\TariffComparison.Api\bin\Debug\netcoreapp2.1\TariffComparison.Api.deps.json
+C:\Projects\TariffComparison\TariffComparison\TariffComparison.Api\bin\Debug\netcoreapp2.1\TariffComparison.Api.runtimeconfig.json
+C:\Projects\TariffComparison\TariffComparison\TariffComparison.Api\bin\Debug\netcoreapp2.1\TariffComparison.Api.runtimeconfig.dev.json
+C:\Projects\TariffComparison\TariffComparison\TariffComparison.Api\bin\Debug\netcoreapp2.1\TariffComparison.Api.dll
+C:\Projects\TariffComparison\TariffComparison\TariffComparison.Api\bin\Debug\netcoreapp2.1\TariffComparison.Api.pdb
+C:\Projects\TariffComparison\TariffComparison\TariffComparison.Api\obj\Debug\netcoreapp2.1\TariffComparison.Api.csprojAssemblyReference.cache
+C:\Projects\TariffComparison\TariffComparison\TariffComparison.Api\obj\Debug\netcoreapp2.1\TariffComparison.Api.csproj.CoreCompileInputs.cache
+C:\Projects\TariffComparison\TariffComparison\TariffComparison.Api\obj\Debug\netcoreapp2.1\TariffComparison.Api.RazorAssemblyInfo.cache
+C:\Projects\TariffComparison\TariffComparison\TariffComparison.Api\obj\Debug\netcoreapp2.1\TariffComparison.Api.RazorAssemblyInfo.cs
+C:\Projects\TariffComparison\TariffComparison\TariffComparison.Api\obj\Debug\netcoreapp2.1\TariffComparison.Api.AssemblyInfoInputs.cache
+C:\Projects\TariffComparison\TariffComparison\TariffComparison.Api\obj\Debug\netcoreapp2.1\TariffComparison.Api.AssemblyInfo.cs
+C:\Projects\TariffComparison\TariffComparison\TariffComparison.Api\obj\Debug\netcoreapp2.1\TariffComparison.Api.RazorTargetAssemblyInfo.cache
+C:\Projects\TariffComparison\TariffComparison\TariffComparison.Api\obj\Debug\netcoreapp2.1\TariffComparison.Api.dll
+C:\Projects\TariffComparison\TariffComparison\TariffComparison.Api\obj\Debug\netcoreapp2.1\TariffComparison.Api.pdb
