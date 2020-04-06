@@ -15,6 +15,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\TariffComparison.Domain\TariffComparison.Domain.csproj" />
+    <ProjectReference Include="..\TariffComparison.Services\TariffComparison.Services.csproj" />
   </ItemGroup>
 
 </Project>

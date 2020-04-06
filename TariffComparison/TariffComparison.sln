@@ -9,9 +9,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TariffComparison.Services",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TariffComparison.Domain", "TariffComparison.Domain\TariffComparison.Domain.csproj", "{57E562DA-5DF5-4AAD-B32B-27C0B9432DBC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TariffComparison.Repository", "TariffComparison.Repository\TariffComparison.Repository.csproj", "{ED974117-EAAD-43AF-8DDB-DC0281806565}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TariffComparison.Tests", "TariffComparison.Tests\TariffComparison.Tests.csproj", "{20B7A0F9-D4FB-423B-8F92-19585663E8A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TariffComparison.Common", "TariffComparison.Common\TariffComparison.Common.csproj", "{1C3D0759-F00A-48E0-B3F6-A5BE6B97AEBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TariffComparison.Contract", "TariffComparison.Contract\TariffComparison.Contract.csproj", "{3B591841-09AC-47D7-8718-0E18B50BC6A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TariffComparison.Repository", "TariffComparison.Repository\TariffComparison.Repository.csproj", "{21F5B24A-76A3-4E0E-B6BC-9106033622DF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,14 +35,22 @@ Global
 		{57E562DA-5DF5-4AAD-B32B-27C0B9432DBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{57E562DA-5DF5-4AAD-B32B-27C0B9432DBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{57E562DA-5DF5-4AAD-B32B-27C0B9432DBC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{ED974117-EAAD-43AF-8DDB-DC0281806565}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{ED974117-EAAD-43AF-8DDB-DC0281806565}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{ED974117-EAAD-43AF-8DDB-DC0281806565}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{ED974117-EAAD-43AF-8DDB-DC0281806565}.Release|Any CPU.Build.0 = Release|Any CPU
 		{20B7A0F9-D4FB-423B-8F92-19585663E8A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{20B7A0F9-D4FB-423B-8F92-19585663E8A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20B7A0F9-D4FB-423B-8F92-19585663E8A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{20B7A0F9-D4FB-423B-8F92-19585663E8A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C3D0759-F00A-48E0-B3F6-A5BE6B97AEBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C3D0759-F00A-48E0-B3F6-A5BE6B97AEBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C3D0759-F00A-48E0-B3F6-A5BE6B97AEBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C3D0759-F00A-48E0-B3F6-A5BE6B97AEBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B591841-09AC-47D7-8718-0E18B50BC6A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B591841-09AC-47D7-8718-0E18B50BC6A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B591841-09AC-47D7-8718-0E18B50BC6A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B591841-09AC-47D7-8718-0E18B50BC6A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21F5B24A-76A3-4E0E-B6BC-9106033622DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21F5B24A-76A3-4E0E-B6BC-9106033622DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21F5B24A-76A3-4E0E-B6BC-9106033622DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21F5B24A-76A3-4E0E-B6BC-9106033622DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

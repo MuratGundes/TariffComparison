@@ -6,3 +6,9 @@ C:\Projects\TariffComparison\TariffComparison\TariffComparison.Services\obj\Debu
 C:\Projects\TariffComparison\TariffComparison\TariffComparison.Services\obj\Debug\netcoreapp2.1\TariffComparison.Services.AssemblyInfo.cs
 C:\Projects\TariffComparison\TariffComparison\TariffComparison.Services\obj\Debug\netcoreapp2.1\TariffComparison.Services.dll
 C:\Projects\TariffComparison\TariffComparison\TariffComparison.Services\obj\Debug\netcoreapp2.1\TariffComparison.Services.pdb
+C:\Projects\TariffComparison\TariffComparison\TariffComparison.Services\obj\Debug\netcoreapp2.1\TariffComparison.Services.csprojAssemblyReference.cache
+C:\Projects\TariffComparison\TariffComparison\TariffComparison.Services\bin\Debug\netcoreapp2.1\TariffComparison.Common.dll
+C:\Projects\TariffComparison\TariffComparison\TariffComparison.Services\bin\Debug\netcoreapp2.1\TariffComparison.Contract.dll
+C:\Projects\TariffComparison\TariffComparison\TariffComparison.Services\bin\Debug\netcoreapp2.1\TariffComparison.Contract.pdb
+C:\Projects\TariffComparison\TariffComparison\TariffComparison.Services\bin\Debug\netcoreapp2.1\TariffComparison.Common.pdb
+C:\Projects\TariffComparison\TariffComparison\TariffComparison.Services\obj\Debug\netcoreapp2.1\TariffComparison.Services.csproj.CopyComplete

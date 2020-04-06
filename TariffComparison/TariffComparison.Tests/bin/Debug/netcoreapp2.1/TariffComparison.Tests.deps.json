@@ -11,6 +11,7 @@
           "Microsoft.NET.Test.Sdk": "15.9.0",
           "Moq": "4.13.1",
           "TariffComparison.Domain": "1.0.0",
+          "TariffComparison.Services": "1.0.0",
           "xunit": "2.4.0",
           "xunit.runner.visualstudio": "2.4.0"
         },
@@ -1095,6 +1096,14 @@
         "runtime": {
           "TariffComparison.Domain.dll": {}
         }
+      },
+      "TariffComparison.Services/1.0.0": {
+        "dependencies": {
+          "TariffComparison.Contract": "1.0.0"
+        },
+        "runtime": {
+          "TariffComparison.Services.dll": {}
+        }
       }
     }
   },
@@ -1661,6 +1670,11 @@
       "sha512": ""
     },
     "TariffComparison.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TariffComparison.Services/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -7,14 +7,40 @@
   "targets": {
     ".NETCoreApp,Version=v2.1": {
       "TariffComparison.Services/1.0.0": {
+        "dependencies": {
+          "TariffComparison.Contract": "1.0.0"
+        },
         "runtime": {
           "TariffComparison.Services.dll": {}
+        }
+      },
+      "TariffComparison.Common/1.0.0": {
+        "runtime": {
+          "TariffComparison.Common.dll": {}
+        }
+      },
+      "TariffComparison.Contract/1.0.0": {
+        "dependencies": {
+          "TariffComparison.Common": "1.0.0"
+        },
+        "runtime": {
+          "TariffComparison.Contract.dll": {}
         }
       }
     }
   },
   "libraries": {
     "TariffComparison.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TariffComparison.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TariffComparison.Contract/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

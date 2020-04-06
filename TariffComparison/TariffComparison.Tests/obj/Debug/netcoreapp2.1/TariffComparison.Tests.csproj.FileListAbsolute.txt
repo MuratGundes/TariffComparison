@@ -19,3 +19,5 @@ C:\Projects\TariffComparison\TariffComparison\TariffComparison.Tests\bin\Debug\n
 C:\Projects\TariffComparison\TariffComparison\TariffComparison.Tests\obj\Debug\netcoreapp2.1\TariffComparison.Tests.csproj.CopyComplete
 C:\Projects\TariffComparison\TariffComparison\TariffComparison.Tests\bin\Debug\netcoreapp2.1\TariffComparison.Contract.dll
 C:\Projects\TariffComparison\TariffComparison\TariffComparison.Tests\bin\Debug\netcoreapp2.1\TariffComparison.Contract.pdb
+C:\Projects\TariffComparison\TariffComparison\TariffComparison.Tests\bin\Debug\netcoreapp2.1\TariffComparison.Services.dll
+C:\Projects\TariffComparison\TariffComparison\TariffComparison.Tests\bin\Debug\netcoreapp2.1\TariffComparison.Services.pdb

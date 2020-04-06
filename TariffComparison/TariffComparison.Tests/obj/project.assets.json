@@ -1733,6 +1733,19 @@
         "runtime": {
           "bin/placeholder/TariffComparison.Domain.dll": {}
         }
+      },
+      "TariffComparison.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "TariffComparison.Contract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TariffComparison.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TariffComparison.Services.dll": {}
+        }
       }
     }
   },
@@ -6011,6 +6024,11 @@
       "type": "project",
       "path": "../TariffComparison.Domain/TariffComparison.Domain.csproj",
       "msbuildProject": "../TariffComparison.Domain/TariffComparison.Domain.csproj"
+    },
+    "TariffComparison.Services/1.0.0": {
+      "type": "project",
+      "path": "../TariffComparison.Services/TariffComparison.Services.csproj",
+      "msbuildProject": "../TariffComparison.Services/TariffComparison.Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -6019,6 +6037,7 @@
       "Microsoft.NETCore.App >= 2.1.0",
       "Moq >= 4.13.1",
       "TariffComparison.Domain >= 1.0.0",
+      "TariffComparison.Services >= 1.0.0",
       "xunit >= 2.4.0",
       "xunit.runner.visualstudio >= 2.4.0"
     ]
@@ -6055,6 +6074,9 @@
           "projectReferences": {
             "C:\\Projects\\TariffComparison\\TariffComparison\\TariffComparison.Domain\\TariffComparison.Domain.csproj": {
               "projectPath": "C:\\Projects\\TariffComparison\\TariffComparison\\TariffComparison.Domain\\TariffComparison.Domain.csproj"
+            },
+            "C:\\Projects\\TariffComparison\\TariffComparison\\TariffComparison.Services\\TariffComparison.Services.csproj": {
+              "projectPath": "C:\\Projects\\TariffComparison\\TariffComparison\\TariffComparison.Services\\TariffComparison.Services.csproj"
             }
           }
         }
