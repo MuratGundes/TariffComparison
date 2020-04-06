@@ -1,0 +1,9 @@
+C:\Projects\TariffComparison\TariffComparison\TariffComparison.Common\bin\Debug\netcoreapp2.1\TariffComparison.Common.deps.json
+C:\Projects\TariffComparison\TariffComparison\TariffComparison.Common\bin\Debug\netcoreapp2.1\TariffComparison.Common.dll
+C:\Projects\TariffComparison\TariffComparison\TariffComparison.Common\bin\Debug\netcoreapp2.1\TariffComparison.Common.pdb
+C:\Projects\TariffComparison\TariffComparison\TariffComparison.Common\obj\Debug\netcoreapp2.1\TariffComparison.Common.csprojAssemblyReference.cache
+C:\Projects\TariffComparison\TariffComparison\TariffComparison.Common\obj\Debug\netcoreapp2.1\TariffComparison.Common.csproj.CoreCompileInputs.cache
+C:\Projects\TariffComparison\TariffComparison\TariffComparison.Common\obj\Debug\netcoreapp2.1\TariffComparison.Common.AssemblyInfoInputs.cache
+C:\Projects\TariffComparison\TariffComparison\TariffComparison.Common\obj\Debug\netcoreapp2.1\TariffComparison.Common.AssemblyInfo.cs
+C:\Projects\TariffComparison\TariffComparison\TariffComparison.Common\obj\Debug\netcoreapp2.1\TariffComparison.Common.dll
+C:\Projects\TariffComparison\TariffComparison\TariffComparison.Common\obj\Debug\netcoreapp2.1\TariffComparison.Common.pdb

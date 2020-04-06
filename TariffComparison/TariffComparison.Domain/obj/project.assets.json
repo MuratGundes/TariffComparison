@@ -207,6 +207,29 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "TariffComparison.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/TariffComparison.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TariffComparison.Common.dll": {}
+        }
+      },
+      "TariffComparison.Contract/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "TariffComparison.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TariffComparison.Contract.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TariffComparison.Contract.dll": {}
+        }
       }
     }
   },
@@ -680,11 +703,23 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "TariffComparison.Common/1.0.0": {
+      "type": "project",
+      "path": "../TariffComparison.Common/TariffComparison.Common.csproj",
+      "msbuildProject": "../TariffComparison.Common/TariffComparison.Common.csproj"
+    },
+    "TariffComparison.Contract/1.0.0": {
+      "type": "project",
+      "path": "../TariffComparison.Contract/TariffComparison.Contract.csproj",
+      "msbuildProject": "../TariffComparison.Contract/TariffComparison.Contract.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
-      "Microsoft.NETCore.App >= 2.1.0"
+      "Microsoft.NETCore.App >= 2.1.0",
+      "TariffComparison.Common >= 1.0.0",
+      "TariffComparison.Contract >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -716,7 +751,14 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Projects\\TariffComparison\\TariffComparison\\TariffComparison.Common\\TariffComparison.Common.csproj": {
+              "projectPath": "C:\\Projects\\TariffComparison\\TariffComparison\\TariffComparison.Common\\TariffComparison.Common.csproj"
+            },
+            "C:\\Projects\\TariffComparison\\TariffComparison\\TariffComparison.Contract\\TariffComparison.Contract.csproj": {
+              "projectPath": "C:\\Projects\\TariffComparison\\TariffComparison\\TariffComparison.Contract\\TariffComparison.Contract.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

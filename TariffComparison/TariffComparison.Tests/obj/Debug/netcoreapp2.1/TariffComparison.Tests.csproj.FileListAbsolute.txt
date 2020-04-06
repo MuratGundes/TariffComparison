@@ -12,3 +12,10 @@ C:\Projects\TariffComparison\TariffComparison\TariffComparison.Tests\obj\Debug\n
 C:\Projects\TariffComparison\TariffComparison\TariffComparison.Tests\obj\Debug\netcoreapp2.1\TariffComparison.Tests.AssemblyInfo.cs
 C:\Projects\TariffComparison\TariffComparison\TariffComparison.Tests\obj\Debug\netcoreapp2.1\TariffComparison.Tests.dll
 C:\Projects\TariffComparison\TariffComparison\TariffComparison.Tests\obj\Debug\netcoreapp2.1\TariffComparison.Tests.pdb
+C:\Projects\TariffComparison\TariffComparison\TariffComparison.Tests\bin\Debug\netcoreapp2.1\TariffComparison.Common.dll
+C:\Projects\TariffComparison\TariffComparison\TariffComparison.Tests\bin\Debug\netcoreapp2.1\TariffComparison.Domain.dll
+C:\Projects\TariffComparison\TariffComparison\TariffComparison.Tests\bin\Debug\netcoreapp2.1\TariffComparison.Domain.pdb
+C:\Projects\TariffComparison\TariffComparison\TariffComparison.Tests\bin\Debug\netcoreapp2.1\TariffComparison.Common.pdb
+C:\Projects\TariffComparison\TariffComparison\TariffComparison.Tests\obj\Debug\netcoreapp2.1\TariffComparison.Tests.csproj.CopyComplete
+C:\Projects\TariffComparison\TariffComparison\TariffComparison.Tests\bin\Debug\netcoreapp2.1\TariffComparison.Contract.dll
+C:\Projects\TariffComparison\TariffComparison\TariffComparison.Tests\bin\Debug\netcoreapp2.1\TariffComparison.Contract.pdb

@@ -7,3 +7,8 @@ C:\Projects\TariffComparison\TariffComparison\TariffComparison.Domain\obj\Debug\
 C:\Projects\TariffComparison\TariffComparison\TariffComparison.Domain\obj\Debug\netcoreapp2.1\TariffComparison.Domain.AssemblyInfo.cs
 C:\Projects\TariffComparison\TariffComparison\TariffComparison.Domain\obj\Debug\netcoreapp2.1\TariffComparison.Domain.dll
 C:\Projects\TariffComparison\TariffComparison\TariffComparison.Domain\obj\Debug\netcoreapp2.1\TariffComparison.Domain.pdb
+C:\Projects\TariffComparison\TariffComparison\TariffComparison.Domain\bin\Debug\netcoreapp2.1\TariffComparison.Common.dll
+C:\Projects\TariffComparison\TariffComparison\TariffComparison.Domain\bin\Debug\netcoreapp2.1\TariffComparison.Common.pdb
+C:\Projects\TariffComparison\TariffComparison\TariffComparison.Domain\obj\Debug\netcoreapp2.1\TariffComparison.Domain.csproj.CopyComplete
+C:\Projects\TariffComparison\TariffComparison\TariffComparison.Domain\bin\Debug\netcoreapp2.1\TariffComparison.Contract.dll
+C:\Projects\TariffComparison\TariffComparison\TariffComparison.Domain\bin\Debug\netcoreapp2.1\TariffComparison.Contract.pdb
