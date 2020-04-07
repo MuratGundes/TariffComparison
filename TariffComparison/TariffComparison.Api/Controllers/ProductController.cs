@@ -18,7 +18,7 @@ namespace TariffComparison.Api.Controllers
         }
 
         [HttpGet]
-        [Route("products/{consumption}")]
+        [Route("tariffs/{consumption}")]
         public ActionResult<List<ProductTariffDto>> GetComparedProductsBasedOnAnnualCosts(decimal consumption)
         {
             return _productService.GetComparedProductsBasedOnAnnualCosts(consumption);
