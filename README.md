@@ -35,7 +35,7 @@ Examples:
 
 ### Prerequisites
 
-You need .NET Core installed to run the project, or you can use docker-compose to run the container.
+You need .NET Core installed to run the project.
 
 ## Built With
 
