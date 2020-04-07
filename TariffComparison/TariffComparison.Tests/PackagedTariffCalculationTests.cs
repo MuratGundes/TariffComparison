@@ -10,7 +10,7 @@ namespace TariffComparison.Tests
         [InlineData(800, 3500)]
         [InlineData(950, 4500)]
         [InlineData(1400, 6000)]
-        public void ConsumptionCostsShouldBeAsExpected(int annualCost, int consumption)
+        public void ConsumptionCostsShouldBeAsExpected(decimal annualCost, decimal consumption)
         {
             // Arrange
             ITariff tariff = new PackagedTariff();
